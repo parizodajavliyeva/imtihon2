@@ -1,0 +1,17 @@
+.header-div {
+    display: flex;
+    align-items: center;
+}
+.title-header {
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.mana{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(23, 107, 209);
+}
